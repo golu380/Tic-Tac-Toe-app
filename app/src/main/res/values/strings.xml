@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tak Toe</string>
+    <string name="welcome_to_tic_tak_toe">Welcome to Tic Tak Toe</string>
+    <string name="heading">Welcome to Tic-Tak-Toe</string>
+    <string name="grid">My grid</string>
+    <string name="my_grid">My grid</string>
+</resources>
